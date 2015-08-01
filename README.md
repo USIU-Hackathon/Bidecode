@@ -16,4 +16,4 @@ Jisalimu is an Emergency application and response Software that combines Mobile 
 Basically the user interacts with the application incase of an emergency by pressing the trigger button,sending the trigger message containing a description of the emergency to the control center dashboard in real time.The recipients(authorities concerned) will act upon receiving the message.
 
 ##Analytics - Data Visualization
-Jisalimu collects data (number of triggers/alerts) which helps track
+Jisalimu collects data (number of triggers/alerts) which helps visualize the areas prone to disasters and help put the necessary mitigation policies and infrastructure in place.This will go along away in disaster management and evasion and at large assist governments more so the local governments in allocation of resources as well as provide business intelligence in making decision making by policy makers and provide law makers invaluable insights when making legislations.
